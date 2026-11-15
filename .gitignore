@@ -1,0 +1,6 @@
+*.o
+*.elf
+*.prx
+*.SFO
+EBOOT.PBP
+.DS_Store
